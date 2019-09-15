@@ -1,0 +1,4 @@
+
+C_MINUS COMPILATION: ./test_code/mytest.cm
+   1: /*dfjlsjdklfjskldjf*****    / *****  fgd */
+	2: EOF

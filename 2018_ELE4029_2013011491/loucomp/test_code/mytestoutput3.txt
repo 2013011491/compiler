@@ -1,0 +1,3 @@
+
+C_MINUS COMPILATION: ./test_code/mytest3_comerror.txt
+	3: EOF

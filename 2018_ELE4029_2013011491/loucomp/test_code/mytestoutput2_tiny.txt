@@ -1,0 +1,10 @@
+
+C_MINUS COMPILATION: ./test_code/mytest2_com.cm
+	3: reserved word: int
+	3: ID, name= main
+	3: (
+	3: reserved word: void
+	3: )
+	3: *
+	3: /
+	4: EOF
